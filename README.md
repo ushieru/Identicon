@@ -1,6 +1,6 @@
 # Identicon
 Generador de iconos como los de github.
-Para cada entrada unica se generara un icono como los de github.
+Para cada entrada unica se generara un icono.
 
 ## Ejemplos
 
